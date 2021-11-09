@@ -1,0 +1,1 @@
+<div class="Tile cursor-pointer w-[100px] h-[100px] bg-gray-400 text-[50px] text-center flex justify-center items-center transition-colors duration-500 hover:bg-gray-300"></div>

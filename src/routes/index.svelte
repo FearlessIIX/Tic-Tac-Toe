@@ -23,6 +23,7 @@
                 }
             }
         }
+        // Add the logic here for the actual game
     }
 </script>
 <div class="flex justify-center items center">
